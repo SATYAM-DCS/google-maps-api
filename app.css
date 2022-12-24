@@ -1,0 +1,54 @@
+
+body {
+    color: #5bc0de;
+    font-family: "Poppins", sans-serif;
+  }
+  
+  .fa-map-marker-alt,
+  .fa-dot-circle {
+    color: #5bc0de;
+  }
+  
+  /*Jumbotron*/
+  .jumbotron {
+    background-color: transparent;
+    margin: 0;
+    padding: 10px;
+  }
+  
+  .jumbotron h5 {
+    letter-spacing: 2px;
+    font-size: 2.5em;
+    margin-bottom: 1%;
+  }
+  
+  .jumbotron h5,
+  .jumbotron p {
+    text-align: center;
+  }
+  
+  /*map*/
+  #googleMap {
+    width: 80%;
+    height: 400px;
+    margin: 10px auto;
+  }
+  .form-horizontal{
+    text-align: center;
+    margin-top: 0.5%;
+    padding-bottom: 1%;
+  }
+  #align{
+    text-align: center;
+  }
+  
+  /*output box*/
+  #output {
+    text-align: center;
+    font-size: 2em;
+    margin: 20px auto;
+  }
+  
+  #mode {
+    color: black;
+  }
